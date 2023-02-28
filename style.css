@@ -1,0 +1,32 @@
+* {
+  padding:2px
+}
+
+header {
+  padding: 20px;
+  font-size: 16px;
+  text-align:center;
+  background: #c9bda8;
+  color: #0c0b0b;
+  border: bottom 30px;px #7b7b70;
+}
+
+div {
+  font-size:20pxpx;
+  padding: 10px;
+  text-align: right;
+}
+
+#start-button{
+  align-content: center;
+  padding: 5px;
+  border-color: #0c0b0b;
+  font-size:15px;
+  font-family: serif;
+}
+
+.time {
+font-size: 32px;
+  
+
+}

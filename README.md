@@ -1,1 +1,7 @@
-# code_quiz
+- Take a code quiz
+- Upon clicking the start button the timer starts
+- Then a question appears. Answer the question before another question comes up
+- If a question is answered incorrectly the time gets subtracted from the clock
+- when time reaches 0 or all the questions have been answered; then
+- The game is over 
+- upon finishing the game, the initisl is saved and score is displayed
