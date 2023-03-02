@@ -14,8 +14,7 @@ header {
 div {
   font-size:20pxpx;
   padding: 10px;
-  text-align: right;
-}
+  }
 
 #start-button{
   align-content: center;
@@ -27,6 +26,4 @@ div {
 
 .time {
 font-size: 32px;
-  
-
 }
